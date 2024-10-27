@@ -16,7 +16,7 @@
 <Folder><name>nayatel</name>
   <Placemark>
 	<name>Area-1</name>
-	<Style><LineStyle><color>FF008efa</color><width>0.737006</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff00ff00</color><width>0.737006</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#nayatel">
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">0</SimpleData>
@@ -27,7 +27,7 @@
   </Placemark>
   <Placemark>
 	<name>Area-2</name>
-	<Style><LineStyle><color>FF008efa</color><width>0.737006</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff00ff00</color><width>0.737006</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#nayatel">
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">0</SimpleData>
